@@ -1,1 +1,15 @@
+This project is designed to collect, track, and visualize audience attendance and engagement during live events in a simple and efficient way.
 
+First, I created a Google Form to collect live responses directly from the audience. All the responses were then automatically stored in Google Sheets, giving me a clean, tabular view of the data in real time.
+
+Next, I connected the Google Sheet to Power BI, where I built an interactive dashboard to display key metrics and engagement patterns. The best part is that whenever a new response comes in, I can simply click “Refresh” in Power BI, and the entire dashboard—including all visuals—updates instantly.
+
+✨ What it does:
+
+Collects live event data through Google Forms
+
+Displays responses in Google Sheets in real time
+
+Automatically updates Power BI dashboards with one click
+
+Shows clear insights on attendance and engagement
